@@ -1,3 +1,3 @@
-# Arrow Functions
+# Arrow Functions Nivell1 Exercici 1
 
-Main con los archivos básicos para este tema.
+Función flecha autoinvocable que muestra la suma de dos variables por pantalla.
