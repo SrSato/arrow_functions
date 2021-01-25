@@ -1,3 +1,11 @@
-let objeteadora = (param) => ({marca:param});
+class Persona{
+	constructor(nom){
+		this.nom=nom;
+	}
+	decirNombre(){
+		console.log(this.nom);
+	}
+}
 
-console.log(objeteadora("mango"));
+let pepe = new Persona("Pepe");
+pepe.decirNombre();
