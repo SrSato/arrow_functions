@@ -1,3 +1,3 @@
-# Arrow Functions Nivell1 Exercici 1
+# Arrow Functions Nivell2 Exercici 1
 
-Función flecha autoinvocable que muestra la suma de dos variables por pantalla.
+Función flecha que devuelve un objeto que tiene como atributo el único parámetro de la función.

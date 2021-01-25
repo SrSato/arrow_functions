@@ -1,8 +1,3 @@
-let num1=10;
-let num2=13;
+let objeteadora = (param) => ({marca:param});
 
- 
-//(function (){ alert(num1+num2);}()); //Esta es la función a flechear.
-
-
-(() => {alert(num1+num2);})();
+console.log(objeteadora("mango"));
