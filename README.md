@@ -1,3 +1,5 @@
-# Arrow Functions Nivell2 Exercici 2
+# Arrow Functions Nivell3 Exercici 1
 
-Creamos una clase Persona y un constructor que recoja el nombre de la persona. También añadimos un método que muestre por consola el nombre de cada instancia de Persona.
+Definimos una arrow function que abstrae dos definiciones de clases en su interior
+-nos deja usarlas sin preocuparnos de los constructores ni de quimbambas al llamarla-
+y es capaz de crear objetos de distintas clases.
